@@ -23,13 +23,17 @@
     top: 0;
 }
 
-#hit{
+.hits{
     position: sticky;
     top: 65px;
 }
 
 @media (max-width: 952px){
-    #hit{
+    #mainPage{
+        position: sticky;
+        top: 0;
+    }
+    .hits{
         position: sticky;
         top: 55px;
     }
