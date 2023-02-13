@@ -65,11 +65,8 @@
         margin-left: 0px;
     } */
     .navigation-manual{
-        position: absolute;
-        width: 400px;
+        margin-left: 25vw;
         margin-top: -240px;
-        display: flex;
-        justify-content: center;
     }
     .manual-btn{
         border: 2px solid rgb(0, 183, 245);
